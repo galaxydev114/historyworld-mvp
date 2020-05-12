@@ -1,0 +1,54 @@
+.hwblue {
+    color : #0000cc;
+    background-color : #eeeeee;
+    }
+.hwnavblue {
+    color : #fff;
+    background-color : #334466;
+    }
+
+.hwnav {
+ 	color: #cccccc; 
+ 	}  
+
+.hwnavt {
+ 	color: #cccccc; 
+ 	}  
+ 	
+.hwnavd {
+ 	color: #000000; 
+	}
+
+.card + .card {
+  margin-top: 20px;
+}
+
+.alignlow {
+  margin-top: auto;
+}
+
+.modal-button {
+cursor: pointer;
+}
+
+a:hover {
+	color: #0053AA;
+}
+  
+.hwhero {
+margin-top:-20px;
+}
+.hero-body {
+padding: 2rem 1.5rem !important;
+}
+  
+.alignb { 
+  margin-top: auto;
+  padding-left: 20px;
+}   
+
+.hpad { margin-bottom:20px; }
+
+.hwsearchbg1 { background-color:#f4f4f4; }
+.hwsearchbg { background-color:#eeeeee; }
+
